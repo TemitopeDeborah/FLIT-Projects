@@ -1,20 +1,25 @@
-# Market-Basket-Analysis
+# Hotel Reservation Analysis
 # Overview
- This project involves the analysis of transactions using python libraries to uncover patterns and understand customers purchasing behavior for business optimization
+ This project involves the use of SQL and Tableau for data analysis and visualizations of hotel reservations to identify patterns that will help improve this sector.
+ [Tableau Dashboard](https://public.tableau.com/app/profile/temitope.otesanya/viz/HotelResevation/reservations)
 # High-Level Steps
-1. Data Preparation
-   Loading the libraries and the dataset into jupyter notebook.
-   Data exploration and data cleaning
-2. Exploratory Data Analysis (EDA)
-   Exploring the dataset to uncover trends.
-3. Market Basket Analysis
-   Using apriori algorithm to identify associations and relationships.
-4. Visualization
-   Using charts and graphs like heatmap to identify trends.
-5. Interpretation and Insights
-6. Recommendation
+1. Data Import
+   Loading the data into pgAdmin 4.
+2. Data Exploration
+   The data is explored to understand the relationships that exists between them.
+3. SQL Analysis
+   Using Postgesql and PgAdmin 4 analysis of the dataset was performed.
+4. Tableau Visualization
+   Tableau public 2023.3 was used to create charts and graphs that explains the trends.
+5. Github Repository
+   A Github repository was created containing all the codes and visualizations
+6. Tableau Dashboard Publishing
+   The dashboard was published to tableau public
+7. Presentation
+   The presentation showing the steps taken, analysis done, visualizations used, insights and recommendations.
+    
 # Tools
-1. Data Analysis Tool: Python (libraries like Pandas)
-2. Data Visualization Tool: Matplotlib, Seaborn
-3. Association Rule Mining Tool: Apriori
-4. Jupyter Notebook
+1. SQL: Postgresql and pgAdmin 4
+2. Tableau public 2023.3
+3. Github
+  
